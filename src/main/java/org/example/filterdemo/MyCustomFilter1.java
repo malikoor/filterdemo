@@ -8,7 +8,7 @@ public class MyCustomFilter1 extends GenericFilter {
 
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-        // No initialization needed for this simple filter.
+        // No initialization needed for this simple filter
     }
 
     @Override
